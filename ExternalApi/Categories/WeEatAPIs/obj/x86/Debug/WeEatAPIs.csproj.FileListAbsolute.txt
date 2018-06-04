@@ -1,0 +1,9 @@
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/obj/x86/Debug/WeEatAPIs.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/bin/Debug/WeEatAPIs.exe
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/bin/Debug/WeEatAPIs.pdb
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/bin/Debug/Newtonsoft.Json.dll
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/bin/Debug/RestSharp.dll
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/bin/Debug/Newtonsoft.Json.xml
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/obj/x86/Debug/WeEatAPIs.exe
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/obj/x86/Debug/WeEatAPIs.pdb
+/Users/imac/Projects/WeEatAPIs/WeEatAPIs/obj/x86/Debug/WeEatAPIs.csprojResolveAssemblyReference.cache
